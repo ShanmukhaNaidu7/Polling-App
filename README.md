@@ -56,7 +56,7 @@ npm install
 node server.js
 
 Backend runs on:
-http://localhost:3000
+http://localhost:3000/polls
 
 ---
 
