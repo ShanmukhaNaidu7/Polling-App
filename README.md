@@ -1,10 +1,10 @@
-# 🗳️ Polling App (Full Stack)
+#  Polling App (Full Stack)
 
 A full-stack polling/voting application where users can create polls, vote, and view live results with charts and analytics.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Create polls with 2–4 options
 * Vote by selecting an option (no extra button)
@@ -17,7 +17,7 @@ A full-stack polling/voting application where users can create polls, vote, and 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -33,7 +33,7 @@ A full-stack polling/voting application where users can create polls, vote, and 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Polling-App/
 ├── frontend/
@@ -41,15 +41,15 @@ Polling-App/
 
 ---
 
-## ⚙️ Run Locally
+##  Run Locally
 
-### 1️⃣ Clone the repo
+### 1 Clone the repo
 
 git clone https://github.com/ShanmukhaNaidu7/Polling-App
 
 ---
 
-### 2️ Start Backend
+### 2 Start Backend
 
 cd backend
 npm install
